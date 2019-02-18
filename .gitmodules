@@ -1,0 +1,69 @@
+[submodule "lttng/lttng-tools"]
+	path = lttng/lttng-tools
+	url = git@github.com:lttng/lttng-tools.git
+[submodule "lttng/lttng-ust"]
+	path = lttng/lttng-ust
+	url = git@github.com:lttng/lttng-ust.git
+[submodule "lttng/lttng-modules"]
+	path = lttng/lttng-modules
+	url = git@github.com:lttng/lttng-modules.git
+[submodule "lttng/lttng-docs"]
+	path = lttng/lttng-docs
+	url = git@github.com:lttng/lttng-docs.git
+[submodule "lttng/lttng-ci"]
+	path = lttng/lttng-ci
+	url = git@github.com:lttng/lttng-ci.git
+[submodule "lttng/lttng-scope"]
+	path = lttng/lttng-scope
+	url = git@github.com:lttng/lttng-scope.git
+[submodule "lttng/lttng-ivc"]
+	path = lttng/lttng-ivc
+	url = git@github.com:lttng/lttng-ivc.git
+[submodule "lttng/jenkins-job-builder"]
+	path = lttng/jenkins-job-builder
+	url = git@github.com:lttng/jenkins-job-builder.git
+[submodule "lttng/lttng-ref-traces"]
+	path = lttng/lttng-ref-traces
+	url = git@github.com:lttng/lttng-ref-traces.git
+[submodule "lttng/lttng-analyses"]
+	path = lttng/lttng-analyses
+	url = git@github.com:lttng/lttng-analyses.git
+[submodule "lttng/lttng-ust-java-tests"]
+	path = lttng/lttng-ust-java-tests
+	url = git@github.com:lttng/lttng-ust-java-tests.git
+[submodule "lttng/lami-spec"]
+	path = lttng/lami-spec
+	url = git@github.com:lttng/lami-spec.git
+[submodule "efficios/babeltrace"]
+	path = efficios/babeltrace
+	url = git@github.com:efficios/babeltrace.git
+[submodule "efficios/ctf-testsuite"]
+	path = efficios/ctf-testsuite
+	url = git@github.com:efficios/ctf-testsuite.git
+[submodule "efficios/barectf"]
+	path = efficios/barectf
+	url = git@github.com:efficios/barectf.git
+[submodule "efficios/latency-tracker"]
+	path = efficios/latency-tracker
+	url = git@github.com:efficios/latency-tracker.git
+[submodule "efficios/pytsdl"]
+	path = efficios/pytsdl
+	url = git@github.com:efficios/pytsdl.git
+[submodule "efficios/titan.core"]
+	path = efficios/titan.core
+	url = git@github.com:efficios/titan.core.git
+[submodule "efficios/ctf"]
+	path = efficios/ctf
+	url = git@github.com:efficios/ctf.git
+[submodule "efficios/vagrant-aws-lttng"]
+	path = efficios/vagrant-aws-lttng
+	url = git@github.com:efficios/vagrant-aws-lttng.git
+[submodule "efficios/redis"]
+	path = efficios/redis
+	url = git@github.com:efficios/redis.git
+[submodule "efficios/urcu-tutorial"]
+	path = efficios/urcu-tutorial
+	url = git@github.com:efficios/urcu-tutorial.git
+[submodule "efficios/memleak-finder"]
+	path = efficios/memleak-finder
+	url = git@github.com:efficios/memleak-finder.git
